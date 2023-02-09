@@ -1,0 +1,13 @@
+{
+  "name": "scrape-first-image",
+  "version": "1.0.0",
+  "description": "return first image of a web page",
+  "main": "index.js",
+  "author": "Hasan Aga (its a me)",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "dependencies": {
+    "node-html-parser": "^6.1.4"
+  }
+}
