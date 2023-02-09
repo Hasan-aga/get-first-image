@@ -1,5 +1,5 @@
 {
-  "name": "get-first-image",
+  "name": "get-preview-image",
   "version": "1.0.0",
   "description": "return first image of a web page",
   "main": "index.js",
