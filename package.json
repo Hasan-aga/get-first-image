@@ -9,5 +9,6 @@
   "type": "module",
   "dependencies": {
     "node-html-parser": "^6.1.4"
-  }
+  },
+  "repository": "https://github.com/Hasan-aga/get-first-image.git"
 }
