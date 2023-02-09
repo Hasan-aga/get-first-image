@@ -4,10 +4,11 @@ This tool will look inside a page and find the preview image.
 
 ## Example
 
-```
+```javascript
 import { getFirstImageOfPage } from "./scrapeImage.js";
 
-const link = "http://blog.hasan.one/programming/web/2023-01-30-Display-temporary-message-using-react-hooks.html"
+const link =
+  "http://blog.hasan.one/programming/web/2023-01-30-Display-temporary-message-using-react-hooks.html";
 console.log("result", await getFirstImageOfPage(link)); // logs image link
 ```
 
