@@ -1,4 +1,4 @@
-# Get first image
+# Get preview image
 
 This tool will look inside a page and find the preview image.
 
